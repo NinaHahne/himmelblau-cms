@@ -25,7 +25,7 @@ export default defineType({
       name: "hours",
       title: "Öffnungszeiten",
       type: "string",
-      description: "Beispiel: 12°°- 18°°",
+      description: "Beispiel: 12°° – 18°°",
     },
   ],
 });
